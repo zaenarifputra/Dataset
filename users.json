@@ -1,0 +1,17 @@
+[
+  {
+    "nama": "putra",
+    "perusahaan": "PT Abadi",
+    "minat": "makanan"
+  },
+  {
+    "nama": "cimin",
+    "perusahaan": "PT Micin Abadi",
+    "minat": "minuman"
+  },
+  {
+    "nama": "cahya",
+    "perusahaan": "PT IDNO",
+    "minat": "sepeda"
+  }
+]
