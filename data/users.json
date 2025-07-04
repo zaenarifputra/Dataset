@@ -1,0 +1,20 @@
+[
+  {
+    "nama": "Hermawan",
+    "perusahaan": "Pt Abadi",
+    "role": "investor",
+    "minat": "makanan"
+  },
+  {
+    "nama": "Budi",
+    "perusahaan": "Pt Micin",
+    "role": "umkm",
+    "minat": "lingkungan"
+  },
+  {
+    "nama": "Mang Ari",
+    "perusahaan": "Mie Ayam Gendis",
+    "role": "umkm",
+    "minat": "makanan"
+  }
+]

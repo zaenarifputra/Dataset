@@ -1,0 +1,80 @@
+[
+  {
+    "nama": "Kopi Nusantara",
+    "kategori": "Makanan & Minuman",
+    "deskripsi": "Usaha kopi lokal dengan bahan baku dari petani Sumatera",
+    "wilayah": "Bandung"
+  },
+  {
+    "nama": "Kerajinan Tangan Sumba",
+    "kategori": "Kerajinan",
+    "deskripsi": "Membuat tenun ikat tradisional dari NTT",
+    "wilayah": "Sumba"
+  },
+  {
+    "nama": "GoGreen Pack",
+    "kategori": "Lingkungan",
+    "deskripsi": "Produksi kemasan ramah lingkungan dari daun",
+    "wilayah": "Bogor"
+  },
+   {
+    "nama": "Bakso Sehat Solo",
+    "kategori": "Makanan & Minuman",
+    "deskripsi": "Bakso tanpa pengawet dengan bahan alami dari daging sapi lokal",
+    "wilayah": "Solo"
+  },
+  {
+    "nama": "Teh Rempah Alam",
+    "kategori": "Makanan & Minuman",
+    "deskripsi": "Teh herbal dari rempah-rempah nusantara yang menyehatkan",
+    "wilayah": "Yogyakarta"
+  },
+  {
+    "nama": "Anyaman Rattan Bali",
+    "kategori": "Kerajinan",
+    "deskripsi": "Kerajinan tangan dari rotan alami khas Bali",
+    "wilayah": "Denpasar"
+  },
+  {
+    "nama": "Daur Ulang Plastik Bandung",
+    "kategori": "Lingkungan",
+    "deskripsi": "UMKM yang mengolah sampah plastik menjadi kerajinan berguna",
+    "wilayah": "Bandung"
+  },
+  {
+    "nama": "Kopi Arabika Wamena",
+    "kategori": "Makanan & Minuman",
+    "deskripsi": "Kopi khas pegunungan Papua dengan rasa khas dan aroma kuat",
+    "wilayah": "Wamena"
+  },
+  {
+    "nama": "Tenun Lombok Lestari",
+    "kategori": "Kerajinan",
+    "deskripsi": "Tenun tradisional Lombok yang dilestarikan oleh pengrajin lokal",
+    "wilayah": "Lombok"
+  },
+  {
+    "nama": "Bio Compost Surabaya",
+    "kategori": "Lingkungan",
+    "deskripsi": "Produsen kompos alami untuk pertanian organik",
+    "wilayah": "Surabaya"
+  },
+  {
+    "nama": "Brownies Pisang Madu",
+    "kategori": "Makanan & Minuman",
+    "deskripsi": "Brownies sehat berbahan pisang dan madu lokal tanpa tepung terigu",
+    "wilayah": "Depok"
+  },
+  {
+    "nama": "Batik Cirebon Laras",
+    "kategori": "Kerajinan",
+    "deskripsi": "Membuat batik tulis motif klasik dan kontemporer dari Cirebon",
+    "wilayah": "Cirebon"
+  },
+  {
+    "nama": "Eco Bag Lampung",
+    "kategori": "Lingkungan",
+    "deskripsi": "Tas ramah lingkungan dari limbah kain perca",
+    "wilayah": "Lampung"
+  }
+]

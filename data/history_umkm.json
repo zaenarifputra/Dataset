@@ -1,0 +1,105 @@
+{
+  "Budi": [
+    {
+      "keyword": "berpengalaman",
+      "results": [
+        {
+          "nama": "Budi Santoso",
+          "perusahaan": "Investindo Jaya",
+          "deskripsi": "Investor berpengalaman dalam sektor makanan dan UMKM lokal",
+          "minat": "makanan"
+        },
+        {
+          "nama": "Andre Saputra",
+          "perusahaan": "EcoFund Indonesia",
+          "deskripsi": "Komitmen terhadap pelestarian alam dan bisnis hijau",
+          "minat": "lingkungan"
+        }
+      ]
+    },
+    {
+      "keyword": "Budi",
+      "results": []
+    }
+  ],
+  "Mang Ari": [
+    {
+      "keyword": "Budi",
+      "results": [
+        {
+          "nama": "Budi Santoso",
+          "perusahaan": "Investindo Jaya",
+          "deskripsi": "Investor berpengalaman dalam sektor makanan dan UMKM lokal",
+          "minat": "makanan"
+        }
+      ]
+    },
+    {
+      "keyword": "Jakarta",
+      "results": []
+    },
+    {
+      "keyword": "makanan",
+      "results": [
+        {
+          "nama": "Budi Santoso",
+          "perusahaan": "Investindo Jaya",
+          "deskripsi": "Investor berpengalaman dalam sektor makanan dan UMKM lokal",
+          "minat": "makanan"
+        },
+        {
+          "nama": "Teguh Mahendra",
+          "perusahaan": "Mitra Pangan Sejahtera",
+          "deskripsi": "Ingin membangun rantai pasok makanan yang berkelanjutan",
+          "minat": "makanan"
+        },
+        {
+          "nama": "Rina Wahyuni",
+          "perusahaan": "Rasa Nusantara Capital",
+          "deskripsi": "Mengutamakan kuliner lokal dan produk makanan rumahan",
+          "minat": "makanan"
+        },
+        {
+          "nama": "Bambang Hidayat",
+          "perusahaan": "Kuliner Kita Fund",
+          "deskripsi": "Pencinta makanan lokal dan ingin mendukung pengusaha kuliner kecil",
+          "minat": "makanan"
+        },
+        {
+          "nama": "Sri Hartati",
+          "perusahaan": "Pangan Mandiri",
+          "deskripsi": "Mendukung UMKM kuliner berbasis bahan lokal dan organik",
+          "minat": "makanan"
+        }
+      ]
+    },
+    {
+      "keyword": "nina",
+      "results": [
+        {
+          "nama": "Nina Oktaviani",
+          "perusahaan": "ByteLab Ventures",
+          "deskripsi": "Fokus pada pengembangan teknologi UMKM dan startup digital",
+          "minat": "teknologi"
+        }
+      ]
+    },
+    {
+      "keyword": "nina",
+      "results": [
+        {
+          "nama": "Nina Oktaviani",
+          "perusahaan": "ByteLab Ventures",
+          "deskripsi": "Fokus pada pengembangan teknologi UMKM dan startup digital",
+          "minat": "teknologi"
+        },
+        {
+          "nama": "Teguh Mahendra",
+          "perusahaan": "Mitra Pangan Sejahtera Nina",
+          "deskripsi": "Ingin membangun rantai pasok makanan yang berkelanjutan",
+          "minat": "makanan"
+        }
+      ]
+    }
+  ]
+}

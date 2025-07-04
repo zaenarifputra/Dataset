@@ -1,0 +1,80 @@
+[
+  {
+    "nama": "Budi Santoso",
+    "perusahaan": "Investindo Jaya",
+    "deskripsi": "Investor berpengalaman dalam sektor makanan dan UMKM lokal",
+    "minat": "makanan"
+  },
+  {
+    "nama": "Ani Kartika",
+    "perusahaan": "Green Ventures",
+    "deskripsi": "Fokus pada investasi lingkungan dan produk berkelanjutan",
+    "minat": "lingkungan"
+  },
+  {
+    "nama": "Dino Prasetyo",
+    "perusahaan": "Tech Seed",
+    "deskripsi": "Mencari startup teknologi yang berdampak sosial",
+    "minat": "teknologi"
+  },
+   {
+    "nama": "Rina Wahyuni",
+    "perusahaan": "Rasa Nusantara Capital",
+    "deskripsi": "Mengutamakan kuliner lokal dan produk makanan rumahan",
+    "minat": "makanan"
+  },
+  {
+    "nama": "Andre Saputra",
+    "perusahaan": "EcoFund Indonesia",
+    "deskripsi": "Komitmen terhadap pelestarian alam dan bisnis hijau",
+    "minat": "lingkungan"
+  },
+  {
+    "nama": "Nina Oktaviani",
+    "perusahaan": "ByteLab Ventures",
+    "deskripsi": "Fokus pada pengembangan teknologi UMKM dan startup digital",
+    "minat": "teknologi"
+  },
+  {
+    "nama": "Teguh Mahendra",
+    "perusahaan": "Mitra Pangan Sejahtera Nina",
+    "deskripsi": "Ingin membangun rantai pasok makanan yang berkelanjutan",
+    "minat": "makanan"
+  },
+  {
+    "nama": "Lina Marbun",
+    "perusahaan": "GoGreen Capital",
+    "deskripsi": "Berinvestasi di UMKM yang peduli pada lingkungan dan daur ulang",
+    "minat": "lingkungan"
+  },
+  {
+    "nama": "David Gunawan",
+    "perusahaan": "SmartTek Holdings",
+    "deskripsi": "Tertarik pada AI dan solusi teknologi untuk bisnis kecil",
+    "minat": "teknologi"
+  },
+  {
+    "nama": "Sri Hartati",
+    "perusahaan": "Pangan Mandiri",
+    "deskripsi": "Mendukung UMKM kuliner berbasis bahan lokal dan organik",
+    "minat": "makanan"
+  },
+  {
+    "nama": "Rizal Habibi",
+    "perusahaan": "EcoFuture Fund",
+    "deskripsi": "Membantu bisnis yang memiliki dampak positif terhadap lingkungan",
+    "minat": "lingkungan"
+  },
+  {
+    "nama": "Yulia Sari",
+    "perusahaan": "Innovatech",
+    "deskripsi": "Ingin berkontribusi pada pertumbuhan startup teknologi di Indonesia",
+    "minat": "teknologi"
+  },
+  {
+    "nama": "Bambang Hidayat",
+    "perusahaan": "Kuliner Kita Fund",
+    "deskripsi": "Pencinta makanan lokal dan ingin mendukung pengusaha kuliner kecil",
+    "minat": "makanan"
+  }
+]

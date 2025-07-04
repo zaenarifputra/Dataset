@@ -1,0 +1,60 @@
+{
+  "Hermawan": [
+    {
+      "keyword": "Ari",
+      "results": []
+    },
+    {
+      "keyword": "tenun",
+      "results": [
+        {
+          "nama": "Tenun Lombok Lestari",
+          "kategori": "Kerajinan",
+          "deskripsi": "Tenun tradisional Lombok yang dilestarikan oleh pengrajin lokal",
+          "wilayah": "Lombok"
+        },
+        {
+          "nama": "Kerajinan Tangan Sumba",
+          "kategori": "Kerajinan",
+          "deskripsi": "Membuat tenun ikat tradisional dari NTT",
+          "wilayah": "Sumba"
+        }
+      ]
+    },
+    {
+      "keyword": "Makan",
+      "results": [
+        {
+          "nama": "Kopi Nusantara",
+          "kategori": "Makanan & Minuman",
+          "deskripsi": "Usaha kopi lokal dengan bahan baku dari petani Sumatera",
+          "wilayah": "Bandung"
+        },
+        {
+          "nama": "Teh Rempah Alam",
+          "kategori": "Makanan & Minuman",
+          "deskripsi": "Teh herbal dari rempah-rempah nusantara yang menyehatkan",
+          "wilayah": "Yogyakarta"
+        },
+        {
+          "nama": "Bakso Sehat Solo",
+          "kategori": "Makanan & Minuman",
+          "deskripsi": "Bakso tanpa pengawet dengan bahan alami dari daging sapi lokal",
+          "wilayah": "Solo"
+        },
+        {
+          "nama": "Kopi Arabika Wamena",
+          "kategori": "Makanan & Minuman",
+          "deskripsi": "Kopi khas pegunungan Papua dengan rasa khas dan aroma kuat",
+          "wilayah": "Wamena"
+        },
+        {
+          "nama": "Brownies Pisang Madu",
+          "kategori": "Makanan & Minuman",
+          "deskripsi": "Brownies sehat berbahan pisang dan madu lokal tanpa tepung terigu",
+          "wilayah": "Depok"
+        }
+      ]
+    }
+  ]
+}
